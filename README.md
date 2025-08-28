@@ -13,32 +13,12 @@
 
 
 Analyze 2014–2018 sales data to identify key revenue and profit drivers across products, channels, and regions; uncover seasonal trends and outliers; and align performance against budgets. Use these insights to optimize pricing, promotions, and market expansion for sustainable growth and reduced concentration risk.  
-<img width="1484" height="812" alt="O1" src="https://github.com/user-attachments/assets/2f4f9e15-e8f9-4939-9ff4-d310cfb6cedb" />
 
 <img width="1479" height="804" alt="O2" src="https://github.com/user-attachments/assets/6b5d3513-dea3-4dc2-9517-63aed4e9b036" />
 
 <img width="1474" height="809" alt="O3" src="https://github.com/user-attachments/assets/6ecf7c17-8335-4af2-992c-7edb046d3870" />
 
 <img width="1473" height="810" alt="O4" src="https://github.com/user-attachments/assets/68ee4b15-cc95-498a-bf71-0aa644493dd9" />
-
-
-![O5](https://github.com/user-attachments/assets/adcaa62f-df4f-4c12-85aa-1f0a5e809048)
-
-
-
-![O6](https://github.com/user-attachments/assets/7b133cf1-01a4-4b73-837e-9e0239756448)
-
-
-
-![O7](https://github.com/user-attachments/assets/3d52e054-ea00-4a68-8ee9-ed3ade3736ef)
-
-
-
-![O8](https://github.com/user-attachments/assets/48c427cd-beb0-452e-99e3-e451ae7398b6)
-
-
-
-![O9](https://github.com/user-attachments/assets/6329ed68-9de8-4ca3-b56d-c2c5b1b22aca)
 
 
 ## Dataset
@@ -197,12 +177,3 @@ Process:-
 - There are opportunities to improve under-performing regions and customer segments.
 
 
-## Learning
-
--Data Modeling.  
--Data Visualization.  
--EDA in Python.  
--Dashboard designing.  
--UI implementation.  
--Page navigation.  
--Bookmarks.  
